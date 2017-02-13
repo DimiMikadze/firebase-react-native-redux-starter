@@ -45,6 +45,12 @@ In firebase console navigate to, Database -> Rules and add following code snippe
 
 ## Getting started - Application
 
+### Clone Repo
+
+````
+git clone https://github.com/DimitriMikadze/firebase-react-native-redux-starter
+````
+
 ### npm install dependencies
 
 ````
