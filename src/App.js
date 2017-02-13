@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import React, { Component } from 'react';
 import { Provider } from 'react-redux';
 import firebase from 'firebase';
