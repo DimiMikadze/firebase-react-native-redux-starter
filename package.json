@@ -1,0 +1,47 @@
+{
+  "name": "rnauth",
+  "version": "0.0.1",
+  "description": "Starter for Firebase, React Native, Redux applications with 100% of code in common between IOS and Android",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "lint": "eslint src"
+  },
+  "keywords": [
+    "React Native",
+    "Redux",
+    "Firebase",
+    "Authentication",
+    "CRUD",
+    "Airbnb Eslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimitriMikadze/firebase-react-native-redux-starter"
+  },
+  "dependencies": {
+    "firebase": "^3.6.8",
+    "lodash": "^4.17.4",
+    "react": "15.4.2",
+    "react-native": "0.41.1",
+    "react-native-router-flux": "^3.37.0",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "redux-form": "^6.5.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.9.0",
+    "jest": "18.1.0",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
