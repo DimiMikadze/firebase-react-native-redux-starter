@@ -3,7 +3,7 @@
 [![devDependencies Status](https://david-dm.org/DimitriMikadze/firebase-react-native-redux-starter/dev-status.svg)](https://david-dm.org/DimitriMikadze/firebase-react-native-redux-starter?type=dev)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
-# Starter for Firebase, React Native, Redux applications with 100% of code in common between IOS and Android
+# Starter For Firebase, React Native, Redux Applications With 100% Of Code In Common Between IOS And Android, with Built In Authentication, Crud Example And Form Validation.
 
 ## Features
 
