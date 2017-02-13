@@ -17,7 +17,7 @@
 
 ## Preview
 
-![Screenshot](preview.gif)
+![Preview](previewgif.gif)
 
 ## Getting started - Firebase
 
