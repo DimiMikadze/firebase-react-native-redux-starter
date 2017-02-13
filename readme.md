@@ -19,7 +19,21 @@
 
 <img src="previewgif.gif" width="300">
 
-## Getting started - Firebase
+## Getting started
+
+### Clone Repo
+
+````
+git clone https://github.com/DimitriMikadze/firebase-react-native-redux-starter
+````
+
+### npm install dependencies
+
+````
+npm install
+````
+
+## Firebase
 
 ### Create firebase app
 
@@ -43,19 +57,7 @@ In firebase console navigate to, Database -> Rules and add following code snippe
 }
 ````
 
-## Getting started - Application
-
-### Clone Repo
-
-````
-git clone https://github.com/DimitriMikadze/firebase-react-native-redux-starter
-````
-
-### npm install dependencies
-
-````
-npm install
-````
+## Application
 
 ## IOS
 
