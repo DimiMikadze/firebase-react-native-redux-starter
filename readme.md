@@ -17,7 +17,7 @@
 
 ## Preview
 
-![Preview](previewgif.gif)
+<img src="previewgif.gif" width="300">
 
 ## Getting started - Firebase
 
