@@ -26,7 +26,7 @@ const Input = (props) => {
     secureTextEntry,
     multiline,
     containerStyle,
-    ...otherProps,
+    ...otherProps
   } = props;
 
   return (
