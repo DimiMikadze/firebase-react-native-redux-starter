@@ -26,6 +26,7 @@ const Input = (props) => {
     secureTextEntry,
     multiline,
     containerStyle,
+    ...otherProps,
   } = props;
 
   return (
@@ -38,6 +39,7 @@ const Input = (props) => {
         style={InputText}
         onChangeText={value => onChange(value)}
         value={value}
+        {...otherProps}
       />
       {touched && error &&
         <View>

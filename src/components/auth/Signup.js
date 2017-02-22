@@ -57,6 +57,7 @@ class Signup extends Component {
             name="email"
             component={Input}
             placeholder="Email"
+            autoCapitalize={"none"}
           />
         </Item>
 
