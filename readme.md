@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/DimitriMikadze/firebase-react-native-redux-starter.svg?branch=master)](https://travis-ci.org/DimitriMikadze/firebase-react-native-redux-starter)
-[![dependencies Status](https://david-dm.org/DimitriMikadze/firebase-react-native-redux-starter/status.svg)](https://david-dm.org/DimitriMikadze/firebase-react-native-redux-starter)
-[![devDependencies Status](https://david-dm.org/DimitriMikadze/firebase-react-native-redux-starter/dev-status.svg)](https://david-dm.org/DimitriMikadze/firebase-react-native-redux-starter?type=dev)
+[![Build Status](https://travis-ci.org/DimiMikadze/firebase-react-native-redux-starter.svg?branch=master)](https://travis-ci.org/DimiMikadze/firebase-react-native-redux-starter)
+[![dependencies Status](https://david-dm.org/DimiMikadze/firebase-react-native-redux-starter/status.svg)](https://david-dm.org/DimiMikadze/firebase-react-native-redux-starter)
+[![devDependencies Status](https://david-dm.org/DimiMikadze/firebase-react-native-redux-starter/dev-status.svg)](https://david-dm.org/DimiMikadze/firebase-react-native-redux-starter?type=dev)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 # Starter For Firebase, React Native, Redux Applications With 100% Of Code In Common Between IOS And Android, with built In Authentication, Crud Example And Form Validation.
@@ -24,7 +24,7 @@
 ### Clone Repo
 
 ````
-git clone https://github.com/DimitriMikadze/firebase-react-native-redux-starter
+git clone https://github.com/DimiMikadze/firebase-react-native-redux-starter
 ````
 
 ### npm install dependencies
